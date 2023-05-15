@@ -1,0 +1,49 @@
+h1 {
+    font size: 60px;
+    margin bottom: 20px;
+}
+
+p{
+   text-align: center;
+}
+
+h3{text-align: center;}
+
+.container {
+    background-color: rgb(221, 213, 213);
+    height: 150px;
+    width: 1600px;
+    padding: 30px;
+    margin-bottom: 500px;
+    justify-content: bottom;
+    font-style: initial;
+
+}
+
+
+
+.footerbg{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-style: inherit;
+
+
+
+
+
+}
+
+
+.maincontainer {
+    display: flex;
+    justify-content: bottom;
+    align-items: bottom;
+}
+
+.button {
+    margin-left: 50px;
+
+}
+
+
